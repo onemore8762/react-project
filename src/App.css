@@ -11,14 +11,3 @@
   /* grid-gap: 10px; */
 }
 
-
-.nav{
-  grid-area: n;
-  background-color: lightsteelblue;
-}
-
-.content{
-  grid-area: c;
-  background-color: linen;
-
-}

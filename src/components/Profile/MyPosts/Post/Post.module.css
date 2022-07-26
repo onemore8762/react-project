@@ -10,12 +10,8 @@
     color:green;
   }
 
-  img{
-    width: 250px;
-    height: 250px;
-    float: left;
-  }
-  
-  .posts{
-    clear: left;
-  }
+.item img{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
