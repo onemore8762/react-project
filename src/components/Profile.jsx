@@ -1,3 +1,4 @@
+import s from './Profile.module.css';
 
 const Profile = () => {
     return (
@@ -9,15 +10,15 @@ const Profile = () => {
                 ava + description
             </div>
 
-            <div>
+            <div className={s.posts}>
                 My posts
                 <div>
                     New posts
                 </div>
-                <div>
+                <div className={s.item}>
                     Post 1
                 </div>
-                <div>
+                <div className={s.item}>
                     Post 2
                 </div>
             </div>

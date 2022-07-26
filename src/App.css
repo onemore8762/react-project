@@ -11,15 +11,7 @@
   /* grid-gap: 10px; */
 }
 
-.header{
-  grid-area: h;
-  background-color: yellow;
-}
 
-.header img{
-  width: 20px;
-
-}
 .nav{
   grid-area: n;
   background-color: lightsteelblue;
